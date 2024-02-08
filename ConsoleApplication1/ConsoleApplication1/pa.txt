@@ -1,0 +1,4 @@
+PA_199 82109 atock3 arrow ppp 55
+PA_444 82105 kahuta2 pencil indepedent 29
+PA_145 82107 kahuta2 arrow ppp 29
+PA_145 821067 kahuta2 aeroplane independent 58

@@ -1,0 +1,4 @@
+NA_124 82105 lahore1 lion pmln 28
+NA_124 82106 lahore1 minar independent 28
+NA_145 82107 rwp45 arrow ppp 29
+NA_001 821067 chitral1 aeroplane independent 58
